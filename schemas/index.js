@@ -15,5 +15,5 @@ export const schemaTypes = [
     contacts,
     skills,
     workExperience,
-    works,
+    works,   
 ]
